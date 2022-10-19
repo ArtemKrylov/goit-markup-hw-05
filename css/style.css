@@ -215,7 +215,7 @@ body {
 .current::after {
   content: '';
   position: absolute;
-  bottom: -28px;
+  bottom: -32px;
   left: 0;
 
   width: 100%;
